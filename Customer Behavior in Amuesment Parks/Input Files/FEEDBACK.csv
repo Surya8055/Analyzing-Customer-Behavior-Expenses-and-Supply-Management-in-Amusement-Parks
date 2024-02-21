@@ -1,0 +1,1001 @@
+Feedback_ID,Activity_ID,Activity_Name,Ratings,Customer_ID
+1,ACT020,Green Dragon (Lake Compounce),3,719
+2,ACT021,The Wild One (roller coaster),5,480
+3,ACT022,Jack Rabbit (Clementon Park),1,366
+4,ACT023,Jack Rabbit (Kennywood),5,200
+5,ACT024,Jack Rabbit (Seabreeze),5,520
+6,ACT025,Scenic Railway (roller coaster),4,165
+7,ACT026,Roller Coaster (Lagoon),2,684
+8,ACT027,Big Dipper (Blackpool Pleasure Beach),2,314
+9,ACT028,Wild Cat (Hersheypark),5,579
+10,ACT029,The Bobs (roller coaster),3,206
+11,ACT030,Giant Dipper,1,166
+12,ACT031,Pippin (roller coaster),4,740
+13,ACT032,The Thriller (roller coaster),5,136
+14,ACT033,Thunderhawk (Dorney Park),5,630
+15,ACT034,Big Dipper (Geauga Lake),3,741
+16,ACT035,Cyclone (Revere Beach),4,967
+17,ACT032,The Thriller (roller coaster),4,702
+18,ACT033,Thunderhawk (Dorney Park),2,928
+19,ACT034,Big Dipper (Geauga Lake),5,191
+20,ACT035,Cyclone (Revere Beach),5,95
+21,ACT036,Giant Dipper (Belmont Park),5,31
+22,ACT037,Jazz Railway,5,487
+23,ACT038,Thunderbolt (1925 roller coaster),3,180
+24,ACT039,Thunderbolt (Savin Rock),1,179
+25,ACT013,Backety-Back Scenic Railway,5,506
+26,ACT057,Rest Room - 2,4,621
+27,ACT032,The Thriller (roller coaster),2,37
+28,ACT026,Roller Coaster (Lagoon),3,529
+29,ACT022,Jack Rabbit (Clementon Park),2,409
+30,ACT038,Thunderbolt (1925 roller coaster),4,749
+31,ACT019,Whirl Pool Dips,1,939
+32,ACT048,Wildcat (Lake Compounce),5,208
+33,ACT051,Restaurant - 3,1,209
+34,ACT004,Loop the Loop (Coney Island),4,422
+35,ACT018,Racing Coaster,3,332
+36,ACT051,Restaurant - 3,4,370
+37,ACT032,The Thriller (roller coaster),3,931
+38,ACT014,Racer (1910 roller coaster),4,135
+39,ACT009,Drop the Dip,3,740
+40,ACT032,The Thriller (roller coaster),1,922
+41,ACT030,Giant Dipper,1,957
+42,ACT024,Jack Rabbit (Seabreeze),4,588
+43,ACT018,Racing Coaster,1,836
+44,ACT005,Loop the Loop (Young's Pier),2,996
+45,ACT010,Scenic Railway (Euclid Beach Park),4,394
+46,ACT008,Figure Eight (Euclid Beach Park),1,349
+47,ACT030,Giant Dipper,5,400
+48,ACT044,Crystal Beach Cyclone,4,848
+49,ACT044,Crystal Beach Cyclone,5,60
+50,ACT043,Coney Island Cyclone,1,309
+51,ACT051,Restaurant - 3,1,923
+52,ACT003,Switchback Railway (Euclid Beach Park),3,346
+53,ACT051,Restaurant - 3,4,933
+54,ACT054,Pool Attire shop,3,508
+55,ACT028,Wild Cat (Hersheypark),2,855
+56,ACT022,Jack Rabbit (Clementon Park),2,715
+57,ACT017,Zippin Pippin,2,889
+58,ACT037,Jazz Railway,2,179
+59,ACT019,Whirl Pool Dips,3,687
+60,ACT057,Rest Room - 2,2,191
+61,ACT036,Giant Dipper (Belmont Park),3,922
+62,ACT030,Giant Dipper,4,663
+63,ACT018,Racing Coaster,4,576
+64,ACT018,Racing Coaster,1,604
+65,ACT027,Big Dipper (Blackpool Pleasure Beach),4,278
+66,ACT019,Whirl Pool Dips,5,831
+67,ACT004,Loop the Loop (Coney Island),4,397
+68,ACT017,Zippin Pippin,4,632
+69,ACT050,Restaurant - 2,1,268
+70,ACT008,Figure Eight (Euclid Beach Park),2,748
+71,ACT027,Big Dipper (Blackpool Pleasure Beach),4,89
+72,ACT036,Giant Dipper (Belmont Park),2,285
+73,ACT036,Giant Dipper (Belmont Park),1,771
+74,ACT010,Scenic Railway (Euclid Beach Park),5,521
+75,ACT025,Scenic Railway (roller coaster),2,293
+76,ACT055,Souveneir Stall,4,32
+77,ACT008,Figure Eight (Euclid Beach Park),3,249
+78,ACT012,Aero Dips,1,181
+79,ACT019,Whirl Pool Dips,3,312
+80,ACT021,The Wild One (roller coaster),2,359
+81,ACT047,Racer (Kennywood),1,596
+82,ACT047,Racer (Kennywood),1,693
+83,ACT059,Attire Stall,4,345
+84,ACT052,Restaurant - 4,4,802
+85,ACT039,Thunderbolt (Savin Rock),1,709
+86,ACT030,Giant Dipper,1,812
+87,ACT029,The Bobs (roller coaster),3,825
+88,ACT014,Racer (1910 roller coaster),3,910
+89,ACT025,Scenic Railway (roller coaster),4,138
+90,ACT002,Flip Flap Railway,1,342
+91,ACT009,Drop the Dip,4,406
+92,ACT058,Rest Room - 3,3,972
+93,ACT034,Big Dipper (Geauga Lake),1,911
+94,ACT035,Cyclone (Revere Beach),2,633
+95,ACT036,Giant Dipper (Belmont Park),1,667
+96,ACT045,Cyclone (Palisades Amusement Park),5,329
+97,ACT025,Scenic Railway (roller coaster),5,102
+98,ACT044,Crystal Beach Cyclone,4,569
+99,ACT034,Big Dipper (Geauga Lake),4,84
+100,ACT013,Backety-Back Scenic Railway,2,469
+101,ACT031,Pippin (roller coaster),4,128
+102,ACT004,Loop the Loop (Coney Island),2,947
+103,ACT049,Restaurant - 1,1,544
+104,ACT058,Rest Room - 3,3,932
+105,ACT040,Crystal Beach Cyclone,1,565
+106,ACT035,Cyclone (Revere Beach),3,15
+107,ACT034,Big Dipper (Geauga Lake),2,272
+108,ACT004,Loop the Loop (Coney Island),2,831
+109,ACT043,Coney Island Cyclone,5,544
+110,ACT045,Cyclone (Palisades Amusement Park),4,619
+111,ACT018,Racing Coaster,4,33
+112,ACT036,Giant Dipper (Belmont Park),4,164
+113,ACT030,Giant Dipper,1,857
+114,ACT054,Pool Attire shop,2,504
+115,ACT059,Attire Stall,2,682
+116,ACT007,Leap-The-Dips,5,952
+117,ACT046,Lightning (Revere Beach),2,714
+118,ACT041,Sesquicentennial Cyclone,5,78
+119,ACT011,Loop the Loop (Olentangy Park),4,889
+120,ACT058,Rest Room - 3,3,2
+121,ACT022,Jack Rabbit (Clementon Park),3,238
+122,ACT022,Jack Rabbit (Clementon Park),4,612
+123,ACT022,Jack Rabbit (Clementon Park),3,196
+124,ACT037,Jazz Railway,1,917
+125,ACT013,Backety-Back Scenic Railway,3,165
+126,ACT051,Restaurant - 3,4,510
+127,ACT004,Loop the Loop (Coney Island),4,124
+128,ACT013,Backety-Back Scenic Railway,1,598
+129,ACT007,Leap-The-Dips,4,81
+130,ACT020,Green Dragon (Lake Compounce),5,384
+131,ACT049,Restaurant - 1,1,990
+132,ACT007,Leap-The-Dips,1,980
+133,ACT045,Cyclone (Palisades Amusement Park),4,58
+134,ACT019,Whirl Pool Dips,5,810
+135,ACT054,Pool Attire shop,2,254
+136,ACT036,Giant Dipper (Belmont Park),3,968
+137,ACT011,Loop the Loop (Olentangy Park),2,866
+138,ACT036,Giant Dipper (Belmont Park),5,490
+139,ACT008,Figure Eight (Euclid Beach Park),2,913
+140,ACT028,Wild Cat (Hersheypark),4,774
+141,ACT057,Rest Room - 2,1,842
+142,ACT058,Rest Room - 3,1,685
+143,ACT034,Big Dipper (Geauga Lake),4,903
+144,ACT036,Giant Dipper (Belmont Park),5,39
+145,ACT016,The Great Scenic Railway,3,919
+146,ACT028,Wild Cat (Hersheypark),1,474
+147,ACT025,Scenic Railway (roller coaster),4,638
+148,ACT016,The Great Scenic Railway,1,941
+149,ACT054,Pool Attire shop,1,538
+150,ACT053,Restaurant - 5,3,932
+151,ACT033,Thunderhawk (Dorney Park),1,399
+152,ACT044,Crystal Beach Cyclone,4,164
+153,ACT011,Loop the Loop (Olentangy Park),1,677
+154,ACT005,Loop the Loop (Young's Pier),4,443
+155,ACT037,Jazz Railway,2,682
+156,ACT038,Thunderbolt (1925 roller coaster),3,771
+157,ACT042,Tornado (Coney Island),3,811
+158,ACT046,Lightning (Revere Beach),3,805
+159,ACT044,Crystal Beach Cyclone,5,380
+160,ACT004,Loop the Loop (Coney Island),1,219
+161,ACT002,Flip Flap Railway,1,495
+162,ACT050,Restaurant - 2,2,438
+163,ACT038,Thunderbolt (1925 roller coaster),1,986
+164,ACT047,Racer (Kennywood),3,2
+165,ACT040,Crystal Beach Cyclone,3,360
+166,ACT003,Switchback Railway (Euclid Beach Park),4,659
+167,ACT053,Restaurant - 5,2,373
+168,ACT052,Restaurant - 4,3,797
+169,ACT041,Sesquicentennial Cyclone,5,20
+170,ACT053,Restaurant - 5,3,46
+171,ACT026,Roller Coaster (Lagoon),2,86
+172,ACT010,Scenic Railway (Euclid Beach Park),4,526
+173,ACT012,Aero Dips,4,373
+174,ACT040,Crystal Beach Cyclone,3,542
+175,ACT043,Coney Island Cyclone,5,922
+176,ACT025,Scenic Railway (roller coaster),3,782
+177,ACT048,Wildcat (Lake Compounce),3,369
+178,ACT008,Figure Eight (Euclid Beach Park),1,773
+179,ACT031,Pippin (roller coaster),3,725
+180,ACT035,Cyclone (Revere Beach),1,116
+181,ACT023,Jack Rabbit (Kennywood),5,641
+182,ACT031,Pippin (roller coaster),3,361
+183,ACT001,Switchback Railway,2,745
+184,ACT010,Scenic Railway (Euclid Beach Park),3,742
+185,ACT017,Zippin Pippin,1,733
+186,ACT054,Pool Attire shop,3,127
+187,ACT057,Rest Room - 2,5,801
+188,ACT057,Rest Room - 2,2,665
+189,ACT049,Restaurant - 1,3,824
+190,ACT012,Aero Dips,3,621
+191,ACT034,Big Dipper (Geauga Lake),2,33
+192,ACT004,Loop the Loop (Coney Island),4,502
+193,ACT001,Switchback Railway,2,923
+194,ACT004,Loop the Loop (Coney Island),5,762
+195,ACT052,Restaurant - 4,2,173
+196,ACT011,Loop the Loop (Olentangy Park),2,938
+197,ACT042,Tornado (Coney Island),3,773
+198,ACT001,Switchback Railway,5,75
+199,ACT042,Tornado (Coney Island),1,800
+200,ACT020,Green Dragon (Lake Compounce),4,672
+201,ACT020,Green Dragon (Lake Compounce),2,913
+202,ACT004,Loop the Loop (Coney Island),4,222
+203,ACT016,The Great Scenic Railway,3,120
+204,ACT046,Lightning (Revere Beach),3,629
+205,ACT003,Switchback Railway (Euclid Beach Park),4,351
+206,ACT036,Giant Dipper (Belmont Park),5,638
+207,ACT009,Drop the Dip,3,613
+208,ACT017,Zippin Pippin,4,357
+209,ACT039,Thunderbolt (Savin Rock),5,597
+210,ACT003,Switchback Railway (Euclid Beach Park),4,220
+211,ACT037,Jazz Railway,4,815
+212,ACT053,Restaurant - 5,3,98
+213,ACT018,Racing Coaster,5,209
+214,ACT028,Wild Cat (Hersheypark),4,467
+215,ACT002,Flip Flap Railway,3,672
+216,ACT033,Thunderhawk (Dorney Park),1,717
+217,ACT001,Switchback Railway,3,545
+218,ACT001,Switchback Railway,5,184
+219,ACT049,Restaurant - 1,4,301
+220,ACT059,Attire Stall,4,406
+221,ACT042,Tornado (Coney Island),2,252
+222,ACT040,Crystal Beach Cyclone,4,723
+223,ACT059,Attire Stall,5,371
+224,ACT025,Scenic Railway (roller coaster),3,335
+225,ACT026,Roller Coaster (Lagoon),5,234
+226,ACT055,Souveneir Stall,4,767
+227,ACT003,Switchback Railway (Euclid Beach Park),4,988
+228,ACT027,Big Dipper (Blackpool Pleasure Beach),3,848
+229,ACT004,Loop the Loop (Coney Island),5,978
+230,ACT034,Big Dipper (Geauga Lake),4,895
+231,ACT003,Switchback Railway (Euclid Beach Park),1,686
+232,ACT007,Leap-The-Dips,4,566
+233,ACT034,Big Dipper (Geauga Lake),2,606
+234,ACT007,Leap-The-Dips,3,98
+235,ACT044,Crystal Beach Cyclone,4,683
+236,ACT042,Tornado (Coney Island),1,477
+237,ACT058,Rest Room - 3,4,424
+238,ACT013,Backety-Back Scenic Railway,1,121
+239,ACT042,Tornado (Coney Island),2,820
+240,ACT011,Loop the Loop (Olentangy Park),3,108
+241,ACT032,The Thriller (roller coaster),4,648
+242,ACT016,The Great Scenic Railway,4,202
+243,ACT040,Crystal Beach Cyclone,5,438
+244,ACT040,Crystal Beach Cyclone,2,184
+245,ACT027,Big Dipper (Blackpool Pleasure Beach),1,753
+246,ACT026,Roller Coaster (Lagoon),1,571
+247,ACT017,Zippin Pippin,5,637
+248,ACT051,Restaurant - 3,4,366
+249,ACT058,Rest Room - 3,5,906
+250,ACT042,Tornado (Coney Island),2,26
+251,ACT052,Restaurant - 4,1,201
+252,ACT028,Wild Cat (Hersheypark),1,661
+253,ACT023,Jack Rabbit (Kennywood),2,230
+254,ACT036,Giant Dipper (Belmont Park),2,506
+255,ACT031,Pippin (roller coaster),5,792
+256,ACT058,Rest Room - 3,1,544
+257,ACT050,Restaurant - 2,3,357
+258,ACT010,Scenic Railway (Euclid Beach Park),3,946
+259,ACT042,Tornado (Coney Island),1,733
+260,ACT021,The Wild One (roller coaster),1,368
+261,ACT055,Souveneir Stall,4,234
+262,ACT034,Big Dipper (Geauga Lake),2,579
+263,ACT033,Thunderhawk (Dorney Park),3,108
+264,ACT058,Rest Room - 3,5,660
+265,ACT025,Scenic Railway (roller coaster),2,690
+266,ACT034,Big Dipper (Geauga Lake),2,556
+267,ACT016,The Great Scenic Railway,2,72
+268,ACT059,Attire Stall,2,966
+269,ACT022,Jack Rabbit (Clementon Park),5,994
+270,ACT029,The Bobs (roller coaster),4,681
+271,ACT017,Zippin Pippin,4,225
+272,ACT035,Cyclone (Revere Beach),1,280
+273,ACT011,Loop the Loop (Olentangy Park),5,856
+274,ACT049,Restaurant - 1,3,207
+275,ACT007,Leap-The-Dips,1,31
+276,ACT009,Drop the Dip,1,666
+277,ACT059,Attire Stall,1,194
+278,ACT050,Restaurant - 2,1,592
+279,ACT043,Coney Island Cyclone,4,217
+280,ACT007,Leap-The-Dips,5,621
+281,ACT019,Whirl Pool Dips,4,256
+282,ACT022,Jack Rabbit (Clementon Park),5,745
+283,ACT045,Cyclone (Palisades Amusement Park),5,575
+284,ACT004,Loop the Loop (Coney Island),5,538
+285,ACT041,Sesquicentennial Cyclone,1,670
+286,ACT014,Racer (1910 roller coaster),3,901
+287,ACT023,Jack Rabbit (Kennywood),3,4
+288,ACT007,Leap-The-Dips,5,573
+289,ACT025,Scenic Railway (roller coaster),5,893
+290,ACT033,Thunderhawk (Dorney Park),1,613
+291,ACT010,Scenic Railway (Euclid Beach Park),1,781
+292,ACT056,Rest Room - 1,4,254
+293,ACT025,Scenic Railway (roller coaster),5,621
+294,ACT017,Zippin Pippin,2,363
+295,ACT024,Jack Rabbit (Seabreeze),1,825
+296,ACT010,Scenic Railway (Euclid Beach Park),1,839
+297,ACT054,Pool Attire shop,3,912
+298,ACT022,Jack Rabbit (Clementon Park),1,152
+299,ACT026,Roller Coaster (Lagoon),2,1
+300,ACT051,Restaurant - 3,1,298
+301,ACT048,Wildcat (Lake Compounce),4,69
+302,ACT025,Scenic Railway (roller coaster),1,228
+303,ACT040,Crystal Beach Cyclone,1,387
+304,ACT015,Derby Racer,4,680
+305,ACT036,Giant Dipper (Belmont Park),5,203
+306,ACT030,Giant Dipper,3,998
+307,ACT022,Jack Rabbit (Clementon Park),3,68
+308,ACT036,Giant Dipper (Belmont Park),5,572
+309,ACT013,Backety-Back Scenic Railway,5,455
+310,ACT053,Restaurant - 5,2,95
+311,ACT016,The Great Scenic Railway,5,50
+312,ACT057,Rest Room - 2,3,929
+313,ACT052,Restaurant - 4,3,406
+314,ACT045,Cyclone (Palisades Amusement Park),2,404
+315,ACT029,The Bobs (roller coaster),4,768
+316,ACT021,The Wild One (roller coaster),2,591
+317,ACT049,Restaurant - 1,2,434
+318,ACT032,The Thriller (roller coaster),4,973
+319,ACT011,Loop the Loop (Olentangy Park),1,107
+320,ACT022,Jack Rabbit (Clementon Park),2,795
+321,ACT058,Rest Room - 3,5,37
+322,ACT001,Switchback Railway,2,792
+323,ACT056,Rest Room - 1,2,252
+324,ACT058,Rest Room - 3,3,46
+325,ACT041,Sesquicentennial Cyclone,1,795
+326,ACT026,Roller Coaster (Lagoon),2,291
+327,ACT024,Jack Rabbit (Seabreeze),4,422
+328,ACT052,Restaurant - 4,4,32
+329,ACT007,Leap-The-Dips,1,578
+330,ACT029,The Bobs (roller coaster),2,399
+331,ACT059,Attire Stall,2,865
+332,ACT004,Loop the Loop (Coney Island),5,947
+333,ACT059,Attire Stall,5,639
+334,ACT024,Jack Rabbit (Seabreeze),2,23
+335,ACT027,Big Dipper (Blackpool Pleasure Beach),1,402
+336,ACT025,Scenic Railway (roller coaster),2,241
+337,ACT045,Cyclone (Palisades Amusement Park),5,709
+338,ACT002,Flip Flap Railway,5,238
+339,ACT029,The Bobs (roller coaster),4,386
+340,ACT008,Figure Eight (Euclid Beach Park),2,604
+341,ACT038,Thunderbolt (1925 roller coaster),2,408
+342,ACT019,Whirl Pool Dips,1,355
+343,ACT024,Jack Rabbit (Seabreeze),4,388
+344,ACT007,Leap-The-Dips,2,556
+345,ACT031,Pippin (roller coaster),5,1
+346,ACT038,Thunderbolt (1925 roller coaster),4,801
+347,ACT024,Jack Rabbit (Seabreeze),5,163
+348,ACT046,Lightning (Revere Beach),5,142
+349,ACT006,Cannon Coaster,4,480
+350,ACT046,Lightning (Revere Beach),5,157
+351,ACT033,Thunderhawk (Dorney Park),1,718
+352,ACT042,Tornado (Coney Island),2,539
+353,ACT047,Racer (Kennywood),2,302
+354,ACT053,Restaurant - 5,1,443
+355,ACT057,Rest Room - 2,4,186
+356,ACT032,The Thriller (roller coaster),2,724
+357,ACT042,Tornado (Coney Island),3,670
+358,ACT021,The Wild One (roller coaster),3,424
+359,ACT006,Cannon Coaster,2,871
+360,ACT056,Rest Room - 1,3,453
+361,ACT051,Restaurant - 3,3,248
+362,ACT042,Tornado (Coney Island),2,172
+363,ACT033,Thunderhawk (Dorney Park),4,272
+364,ACT038,Thunderbolt (1925 roller coaster),2,334
+365,ACT008,Figure Eight (Euclid Beach Park),2,536
+366,ACT059,Attire Stall,4,805
+367,ACT044,Crystal Beach Cyclone,5,941
+368,ACT042,Tornado (Coney Island),4,536
+369,ACT021,The Wild One (roller coaster),1,76
+370,ACT056,Rest Room - 1,3,626
+371,ACT001,Switchback Railway,1,925
+372,ACT002,Flip Flap Railway,2,723
+373,ACT006,Cannon Coaster,4,87
+374,ACT037,Jazz Railway,4,965
+375,ACT025,Scenic Railway (roller coaster),3,445
+376,ACT056,Rest Room - 1,4,663
+377,ACT052,Restaurant - 4,5,980
+378,ACT019,Whirl Pool Dips,1,191
+379,ACT030,Giant Dipper,4,989
+380,ACT052,Restaurant - 4,4,806
+381,ACT034,Big Dipper (Geauga Lake),3,830
+382,ACT016,The Great Scenic Railway,4,859
+383,ACT002,Flip Flap Railway,2,449
+384,ACT006,Cannon Coaster,1,885
+385,ACT057,Rest Room - 2,1,491
+386,ACT030,Giant Dipper,3,578
+387,ACT046,Lightning (Revere Beach),3,715
+388,ACT052,Restaurant - 4,3,79
+389,ACT046,Lightning (Revere Beach),5,884
+390,ACT030,Giant Dipper,2,316
+391,ACT016,The Great Scenic Railway,4,502
+392,ACT023,Jack Rabbit (Kennywood),5,779
+393,ACT039,Thunderbolt (Savin Rock),1,189
+394,ACT047,Racer (Kennywood),1,749
+395,ACT001,Switchback Railway,2,176
+396,ACT055,Souveneir Stall,5,889
+397,ACT016,The Great Scenic Railway,3,918
+398,ACT017,Zippin Pippin,2,649
+399,ACT033,Thunderhawk (Dorney Park),4,450
+400,ACT050,Restaurant - 2,1,107
+401,ACT055,Souveneir Stall,4,679
+402,ACT057,Rest Room - 2,3,551
+403,ACT003,Switchback Railway (Euclid Beach Park),1,383
+404,ACT038,Thunderbolt (1925 roller coaster),4,516
+405,ACT023,Jack Rabbit (Kennywood),5,370
+406,ACT009,Drop the Dip,5,252
+407,ACT025,Scenic Railway (roller coaster),5,87
+408,ACT010,Scenic Railway (Euclid Beach Park),1,1000
+409,ACT054,Pool Attire shop,3,972
+410,ACT005,Loop the Loop (Young's Pier),3,206
+411,ACT034,Big Dipper (Geauga Lake),1,695
+412,ACT005,Loop the Loop (Young's Pier),2,185
+413,ACT042,Tornado (Coney Island),4,648
+414,ACT052,Restaurant - 4,3,213
+415,ACT052,Restaurant - 4,4,837
+416,ACT007,Leap-The-Dips,1,336
+417,ACT032,The Thriller (roller coaster),2,953
+418,ACT036,Giant Dipper (Belmont Park),5,54
+419,ACT059,Attire Stall,2,217
+420,ACT033,Thunderhawk (Dorney Park),5,987
+421,ACT057,Rest Room - 2,1,295
+422,ACT015,Derby Racer,1,371
+423,ACT021,The Wild One (roller coaster),5,104
+424,ACT024,Jack Rabbit (Seabreeze),4,611
+425,ACT030,Giant Dipper,3,690
+426,ACT041,Sesquicentennial Cyclone,2,355
+427,ACT026,Roller Coaster (Lagoon),2,848
+428,ACT050,Restaurant - 2,5,479
+429,ACT027,Big Dipper (Blackpool Pleasure Beach),2,569
+430,ACT013,Backety-Back Scenic Railway,1,440
+431,ACT057,Rest Room - 2,1,886
+432,ACT013,Backety-Back Scenic Railway,5,718
+433,ACT045,Cyclone (Palisades Amusement Park),4,376
+434,ACT014,Racer (1910 roller coaster),1,259
+435,ACT010,Scenic Railway (Euclid Beach Park),1,4
+436,ACT018,Racing Coaster,1,729
+437,ACT005,Loop the Loop (Young's Pier),3,449
+438,ACT043,Coney Island Cyclone,4,39
+439,ACT002,Flip Flap Railway,5,572
+440,ACT007,Leap-The-Dips,4,855
+441,ACT039,Thunderbolt (Savin Rock),5,783
+442,ACT016,The Great Scenic Railway,5,926
+443,ACT023,Jack Rabbit (Kennywood),3,257
+444,ACT047,Racer (Kennywood),5,452
+445,ACT053,Restaurant - 5,5,154
+446,ACT054,Pool Attire shop,3,889
+447,ACT058,Rest Room - 3,3,941
+448,ACT054,Pool Attire shop,1,480
+449,ACT049,Restaurant - 1,3,521
+450,ACT016,The Great Scenic Railway,4,270
+451,ACT052,Restaurant - 4,4,930
+452,ACT056,Rest Room - 1,2,804
+453,ACT044,Crystal Beach Cyclone,3,550
+454,ACT014,Racer (1910 roller coaster),5,963
+455,ACT057,Rest Room - 2,4,604
+456,ACT004,Loop the Loop (Coney Island),5,54
+457,ACT004,Loop the Loop (Coney Island),2,638
+458,ACT045,Cyclone (Palisades Amusement Park),1,72
+459,ACT045,Cyclone (Palisades Amusement Park),3,592
+460,ACT025,Scenic Railway (roller coaster),1,965
+461,ACT014,Racer (1910 roller coaster),2,904
+462,ACT015,Derby Racer,3,231
+463,ACT056,Rest Room - 1,3,575
+464,ACT032,The Thriller (roller coaster),4,379
+465,ACT025,Scenic Railway (roller coaster),3,828
+466,ACT050,Restaurant - 2,5,822
+467,ACT031,Pippin (roller coaster),1,925
+468,ACT027,Big Dipper (Blackpool Pleasure Beach),5,398
+469,ACT021,The Wild One (roller coaster),4,57
+470,ACT056,Rest Room - 1,2,586
+471,ACT002,Flip Flap Railway,4,404
+472,ACT056,Rest Room - 1,4,98
+473,ACT052,Restaurant - 4,5,266
+474,ACT022,Jack Rabbit (Clementon Park),3,337
+475,ACT006,Cannon Coaster,5,660
+476,ACT053,Restaurant - 5,1,184
+477,ACT047,Racer (Kennywood),4,485
+478,ACT037,Jazz Railway,3,492
+479,ACT050,Restaurant - 2,5,268
+480,ACT051,Restaurant - 3,1,926
+481,ACT005,Loop the Loop (Young's Pier),2,568
+482,ACT012,Aero Dips,5,700
+483,ACT048,Wildcat (Lake Compounce),1,655
+484,ACT044,Crystal Beach Cyclone,4,524
+485,ACT039,Thunderbolt (Savin Rock),1,81
+486,ACT016,The Great Scenic Railway,3,659
+487,ACT059,Attire Stall,3,860
+488,ACT035,Cyclone (Revere Beach),1,461
+489,ACT016,The Great Scenic Railway,3,239
+490,ACT017,Zippin Pippin,3,274
+491,ACT040,Crystal Beach Cyclone,3,977
+492,ACT014,Racer (1910 roller coaster),1,297
+493,ACT037,Jazz Railway,5,473
+494,ACT050,Restaurant - 2,5,216
+495,ACT004,Loop the Loop (Coney Island),1,16
+496,ACT058,Rest Room - 3,3,277
+497,ACT021,The Wild One (roller coaster),4,605
+498,ACT031,Pippin (roller coaster),1,223
+499,ACT013,Backety-Back Scenic Railway,1,19
+500,ACT049,Restaurant - 1,2,545
+501,ACT019,Whirl Pool Dips,4,404
+502,ACT005,Loop the Loop (Young's Pier),4,500
+503,ACT046,Lightning (Revere Beach),4,255
+504,ACT037,Jazz Railway,5,486
+505,ACT014,Racer (1910 roller coaster),4,136
+506,ACT027,Big Dipper (Blackpool Pleasure Beach),2,577
+507,ACT010,Scenic Railway (Euclid Beach Park),2,530
+508,ACT051,Restaurant - 3,1,906
+509,ACT010,Scenic Railway (Euclid Beach Park),2,365
+510,ACT032,The Thriller (roller coaster),5,410
+511,ACT007,Leap-The-Dips,5,792
+512,ACT009,Drop the Dip,3,5
+513,ACT005,Loop the Loop (Young's Pier),2,73
+514,ACT034,Big Dipper (Geauga Lake),3,226
+515,ACT011,Loop the Loop (Olentangy Park),5,754
+516,ACT017,Zippin Pippin,1,537
+517,ACT059,Attire Stall,4,841
+518,ACT020,Green Dragon (Lake Compounce),2,778
+519,ACT057,Rest Room - 2,2,940
+520,ACT054,Pool Attire shop,4,825
+521,ACT038,Thunderbolt (1925 roller coaster),4,931
+522,ACT020,Green Dragon (Lake Compounce),4,304
+523,ACT030,Giant Dipper,4,719
+524,ACT030,Giant Dipper,1,159
+525,ACT046,Lightning (Revere Beach),3,173
+526,ACT007,Leap-The-Dips,4,742
+527,ACT044,Crystal Beach Cyclone,2,78
+528,ACT055,Souveneir Stall,1,405
+529,ACT050,Restaurant - 2,2,481
+530,ACT015,Derby Racer,5,964
+531,ACT059,Attire Stall,3,527
+532,ACT007,Leap-The-Dips,1,633
+533,ACT046,Lightning (Revere Beach),5,152
+534,ACT039,Thunderbolt (Savin Rock),2,128
+535,ACT019,Whirl Pool Dips,3,927
+536,ACT057,Rest Room - 2,5,547
+537,ACT015,Derby Racer,2,102
+538,ACT014,Racer (1910 roller coaster),5,902
+539,ACT027,Big Dipper (Blackpool Pleasure Beach),4,463
+540,ACT012,Aero Dips,3,159
+541,ACT056,Rest Room - 1,1,52
+542,ACT007,Leap-The-Dips,3,977
+543,ACT036,Giant Dipper (Belmont Park),5,590
+544,ACT040,Crystal Beach Cyclone,3,817
+545,ACT055,Souveneir Stall,1,844
+546,ACT039,Thunderbolt (Savin Rock),2,737
+547,ACT056,Rest Room - 1,5,223
+548,ACT047,Racer (Kennywood),5,920
+549,ACT014,Racer (1910 roller coaster),5,841
+550,ACT037,Jazz Railway,1,175
+551,ACT048,Wildcat (Lake Compounce),5,472
+552,ACT045,Cyclone (Palisades Amusement Park),5,575
+553,ACT025,Scenic Railway (roller coaster),1,248
+554,ACT005,Loop the Loop (Young's Pier),5,772
+555,ACT016,The Great Scenic Railway,1,978
+556,ACT003,Switchback Railway (Euclid Beach Park),5,280
+557,ACT012,Aero Dips,5,970
+558,ACT038,Thunderbolt (1925 roller coaster),5,475
+559,ACT018,Racing Coaster,1,439
+560,ACT052,Restaurant - 4,2,290
+561,ACT021,The Wild One (roller coaster),5,812
+562,ACT007,Leap-The-Dips,2,464
+563,ACT021,The Wild One (roller coaster),4,945
+564,ACT024,Jack Rabbit (Seabreeze),2,374
+565,ACT050,Restaurant - 2,5,81
+566,ACT030,Giant Dipper,5,214
+567,ACT013,Backety-Back Scenic Railway,1,575
+568,ACT013,Backety-Back Scenic Railway,2,585
+569,ACT011,Loop the Loop (Olentangy Park),2,357
+570,ACT034,Big Dipper (Geauga Lake),1,205
+571,ACT013,Backety-Back Scenic Railway,3,388
+572,ACT010,Scenic Railway (Euclid Beach Park),2,524
+573,ACT048,Wildcat (Lake Compounce),3,740
+574,ACT022,Jack Rabbit (Clementon Park),4,691
+575,ACT013,Backety-Back Scenic Railway,2,924
+576,ACT058,Rest Room - 3,4,840
+577,ACT041,Sesquicentennial Cyclone,3,234
+578,ACT059,Attire Stall,1,177
+579,ACT012,Aero Dips,5,114
+580,ACT032,The Thriller (roller coaster),4,237
+581,ACT054,Pool Attire shop,2,152
+582,ACT038,Thunderbolt (1925 roller coaster),1,110
+583,ACT012,Aero Dips,5,539
+584,ACT047,Racer (Kennywood),1,468
+585,ACT058,Rest Room - 3,3,505
+586,ACT034,Big Dipper (Geauga Lake),4,524
+587,ACT056,Rest Room - 1,1,25
+588,ACT054,Pool Attire shop,3,125
+589,ACT019,Whirl Pool Dips,2,784
+590,ACT042,Tornado (Coney Island),3,784
+591,ACT010,Scenic Railway (Euclid Beach Park),3,326
+592,ACT048,Wildcat (Lake Compounce),2,496
+593,ACT024,Jack Rabbit (Seabreeze),5,192
+594,ACT002,Flip Flap Railway,2,12
+595,ACT005,Loop the Loop (Young's Pier),2,325
+596,ACT010,Scenic Railway (Euclid Beach Park),2,874
+597,ACT020,Green Dragon (Lake Compounce),2,46
+598,ACT014,Racer (1910 roller coaster),5,81
+599,ACT021,The Wild One (roller coaster),3,970
+600,ACT022,Jack Rabbit (Clementon Park),3,578
+601,ACT050,Restaurant - 2,5,501
+602,ACT025,Scenic Railway (roller coaster),2,686
+603,ACT027,Big Dipper (Blackpool Pleasure Beach),3,391
+604,ACT051,Restaurant - 3,4,235
+605,ACT010,Scenic Railway (Euclid Beach Park),2,643
+606,ACT041,Sesquicentennial Cyclone,1,448
+607,ACT031,Pippin (roller coaster),5,406
+608,ACT059,Attire Stall,2,547
+609,ACT002,Flip Flap Railway,5,722
+610,ACT035,Cyclone (Revere Beach),2,865
+611,ACT042,Tornado (Coney Island),4,235
+612,ACT052,Restaurant - 4,2,381
+613,ACT018,Racing Coaster,3,16
+614,ACT024,Jack Rabbit (Seabreeze),5,76
+615,ACT009,Drop the Dip,2,76
+616,ACT016,The Great Scenic Railway,5,779
+617,ACT041,Sesquicentennial Cyclone,4,770
+618,ACT021,The Wild One (roller coaster),5,315
+619,ACT012,Aero Dips,2,588
+620,ACT058,Rest Room - 3,3,7
+621,ACT048,Wildcat (Lake Compounce),3,823
+622,ACT026,Roller Coaster (Lagoon),1,494
+623,ACT044,Crystal Beach Cyclone,4,160
+624,ACT057,Rest Room - 2,1,352
+625,ACT031,Pippin (roller coaster),2,28
+626,ACT012,Aero Dips,2,429
+627,ACT048,Wildcat (Lake Compounce),2,880
+628,ACT059,Attire Stall,3,469
+629,ACT036,Giant Dipper (Belmont Park),3,199
+630,ACT046,Lightning (Revere Beach),3,123
+631,ACT007,Leap-The-Dips,2,7
+632,ACT029,The Bobs (roller coaster),5,920
+633,ACT029,The Bobs (roller coaster),4,277
+634,ACT042,Tornado (Coney Island),1,839
+635,ACT029,The Bobs (roller coaster),1,438
+636,ACT040,Crystal Beach Cyclone,2,696
+637,ACT012,Aero Dips,3,45
+638,ACT059,Attire Stall,3,718
+639,ACT016,The Great Scenic Railway,1,131
+640,ACT014,Racer (1910 roller coaster),1,669
+641,ACT036,Giant Dipper (Belmont Park),3,796
+642,ACT035,Cyclone (Revere Beach),3,502
+643,ACT011,Loop the Loop (Olentangy Park),3,430
+644,ACT050,Restaurant - 2,1,736
+645,ACT010,Scenic Railway (Euclid Beach Park),4,465
+646,ACT007,Leap-The-Dips,2,472
+647,ACT057,Rest Room - 2,3,865
+648,ACT035,Cyclone (Revere Beach),3,541
+649,ACT019,Whirl Pool Dips,3,297
+650,ACT049,Restaurant - 1,2,130
+651,ACT023,Jack Rabbit (Kennywood),2,782
+652,ACT029,The Bobs (roller coaster),4,624
+653,ACT059,Attire Stall,3,833
+654,ACT026,Roller Coaster (Lagoon),4,657
+655,ACT032,The Thriller (roller coaster),3,316
+656,ACT056,Rest Room - 1,5,684
+657,ACT031,Pippin (roller coaster),3,934
+658,ACT022,Jack Rabbit (Clementon Park),1,706
+659,ACT027,Big Dipper (Blackpool Pleasure Beach),4,535
+660,ACT005,Loop the Loop (Young's Pier),3,319
+661,ACT043,Coney Island Cyclone,2,950
+662,ACT056,Rest Room - 1,1,18
+663,ACT035,Cyclone (Revere Beach),3,398
+664,ACT053,Restaurant - 5,5,775
+665,ACT044,Crystal Beach Cyclone,2,667
+666,ACT006,Cannon Coaster,4,667
+667,ACT044,Crystal Beach Cyclone,1,566
+668,ACT043,Coney Island Cyclone,5,854
+669,ACT002,Flip Flap Railway,2,787
+670,ACT042,Tornado (Coney Island),5,778
+671,ACT051,Restaurant - 3,3,874
+672,ACT014,Racer (1910 roller coaster),4,394
+673,ACT054,Pool Attire shop,2,821
+674,ACT028,Wild Cat (Hersheypark),2,691
+675,ACT027,Big Dipper (Blackpool Pleasure Beach),3,33
+676,ACT058,Rest Room - 3,1,665
+677,ACT035,Cyclone (Revere Beach),5,995
+678,ACT025,Scenic Railway (roller coaster),4,969
+679,ACT019,Whirl Pool Dips,2,888
+680,ACT010,Scenic Railway (Euclid Beach Park),4,796
+681,ACT006,Cannon Coaster,3,636
+682,ACT050,Restaurant - 2,4,98
+683,ACT056,Rest Room - 1,5,912
+684,ACT021,The Wild One (roller coaster),3,385
+685,ACT047,Racer (Kennywood),2,663
+686,ACT004,Loop the Loop (Coney Island),1,509
+687,ACT031,Pippin (roller coaster),3,88
+688,ACT041,Sesquicentennial Cyclone,3,561
+689,ACT002,Flip Flap Railway,1,387
+690,ACT048,Wildcat (Lake Compounce),1,52
+691,ACT050,Restaurant - 2,5,63
+692,ACT026,Roller Coaster (Lagoon),4,586
+693,ACT057,Rest Room - 2,2,924
+694,ACT017,Zippin Pippin,3,101
+695,ACT035,Cyclone (Revere Beach),2,599
+696,ACT023,Jack Rabbit (Kennywood),3,535
+697,ACT011,Loop the Loop (Olentangy Park),2,316
+698,ACT015,Derby Racer,3,868
+699,ACT041,Sesquicentennial Cyclone,5,270
+700,ACT016,The Great Scenic Railway,3,655
+701,ACT049,Restaurant - 1,5,599
+702,ACT037,Jazz Railway,4,652
+703,ACT057,Rest Room - 2,4,801
+704,ACT025,Scenic Railway (roller coaster),4,2
+705,ACT043,Coney Island Cyclone,5,287
+706,ACT021,The Wild One (roller coaster),5,834
+707,ACT044,Crystal Beach Cyclone,1,611
+708,ACT020,Green Dragon (Lake Compounce),5,375
+709,ACT020,Green Dragon (Lake Compounce),3,675
+710,ACT027,Big Dipper (Blackpool Pleasure Beach),2,930
+711,ACT008,Figure Eight (Euclid Beach Park),3,221
+712,ACT044,Crystal Beach Cyclone,2,33
+713,ACT055,Souveneir Stall,3,348
+714,ACT014,Racer (1910 roller coaster),1,108
+715,ACT033,Thunderhawk (Dorney Park),5,998
+716,ACT002,Flip Flap Railway,1,624
+717,ACT045,Cyclone (Palisades Amusement Park),1,102
+718,ACT025,Scenic Railway (roller coaster),3,2
+719,ACT042,Tornado (Coney Island),2,8
+720,ACT028,Wild Cat (Hersheypark),3,246
+721,ACT036,Giant Dipper (Belmont Park),5,219
+722,ACT019,Whirl Pool Dips,2,671
+723,ACT042,Tornado (Coney Island),1,976
+724,ACT019,Whirl Pool Dips,2,562
+725,ACT010,Scenic Railway (Euclid Beach Park),4,130
+726,ACT006,Cannon Coaster,2,435
+727,ACT005,Loop the Loop (Young's Pier),2,350
+728,ACT005,Loop the Loop (Young's Pier),4,230
+729,ACT017,Zippin Pippin,5,5
+730,ACT003,Switchback Railway (Euclid Beach Park),3,762
+731,ACT053,Restaurant - 5,3,356
+732,ACT049,Restaurant - 1,5,97
+733,ACT039,Thunderbolt (Savin Rock),3,467
+734,ACT014,Racer (1910 roller coaster),3,621
+735,ACT054,Pool Attire shop,4,52
+736,ACT030,Giant Dipper,3,589
+737,ACT029,The Bobs (roller coaster),4,540
+738,ACT018,Racing Coaster,5,539
+739,ACT054,Pool Attire shop,4,81
+740,ACT013,Backety-Back Scenic Railway,5,52
+741,ACT007,Leap-The-Dips,3,16
+742,ACT001,Switchback Railway,2,973
+743,ACT058,Rest Room - 3,2,619
+744,ACT044,Crystal Beach Cyclone,4,734
+745,ACT018,Racing Coaster,5,514
+746,ACT028,Wild Cat (Hersheypark),2,900
+747,ACT041,Sesquicentennial Cyclone,1,40
+748,ACT028,Wild Cat (Hersheypark),3,970
+749,ACT020,Green Dragon (Lake Compounce),2,465
+750,ACT030,Giant Dipper,1,832
+751,ACT043,Coney Island Cyclone,1,709
+752,ACT043,Coney Island Cyclone,1,315
+753,ACT004,Loop the Loop (Coney Island),5,384
+754,ACT035,Cyclone (Revere Beach),3,966
+755,ACT017,Zippin Pippin,3,478
+756,ACT049,Restaurant - 1,1,120
+757,ACT059,Attire Stall,1,479
+758,ACT033,Thunderhawk (Dorney Park),2,628
+759,ACT026,Roller Coaster (Lagoon),3,450
+760,ACT028,Wild Cat (Hersheypark),4,559
+761,ACT002,Flip Flap Railway,5,428
+762,ACT013,Backety-Back Scenic Railway,2,93
+763,ACT021,The Wild One (roller coaster),3,408
+764,ACT052,Restaurant - 4,5,688
+765,ACT059,Attire Stall,2,447
+766,ACT048,Wildcat (Lake Compounce),3,267
+767,ACT055,Souveneir Stall,1,762
+768,ACT029,The Bobs (roller coaster),4,99
+769,ACT059,Attire Stall,1,288
+770,ACT042,Tornado (Coney Island),3,40
+771,ACT028,Wild Cat (Hersheypark),3,707
+772,ACT006,Cannon Coaster,4,49
+773,ACT003,Switchback Railway (Euclid Beach Park),3,464
+774,ACT056,Rest Room - 1,3,953
+775,ACT058,Rest Room - 3,1,585
+776,ACT054,Pool Attire shop,4,500
+777,ACT039,Thunderbolt (Savin Rock),5,234
+778,ACT019,Whirl Pool Dips,3,269
+779,ACT034,Big Dipper (Geauga Lake),3,838
+780,ACT023,Jack Rabbit (Kennywood),5,247
+781,ACT045,Cyclone (Palisades Amusement Park),3,975
+782,ACT050,Restaurant - 2,1,921
+783,ACT040,Crystal Beach Cyclone,3,919
+784,ACT041,Sesquicentennial Cyclone,3,382
+785,ACT008,Figure Eight (Euclid Beach Park),2,99
+786,ACT023,Jack Rabbit (Kennywood),5,8
+787,ACT036,Giant Dipper (Belmont Park),2,943
+788,ACT010,Scenic Railway (Euclid Beach Park),5,463
+789,ACT031,Pippin (roller coaster),2,535
+790,ACT016,The Great Scenic Railway,1,995
+791,ACT003,Switchback Railway (Euclid Beach Park),4,546
+792,ACT013,Backety-Back Scenic Railway,2,308
+793,ACT023,Jack Rabbit (Kennywood),2,659
+794,ACT008,Figure Eight (Euclid Beach Park),1,909
+795,ACT017,Zippin Pippin,2,177
+796,ACT008,Figure Eight (Euclid Beach Park),3,626
+797,ACT012,Aero Dips,5,588
+798,ACT002,Flip Flap Railway,4,185
+799,ACT008,Figure Eight (Euclid Beach Park),4,638
+800,ACT003,Switchback Railway (Euclid Beach Park),3,60
+801,ACT048,Wildcat (Lake Compounce),4,648
+802,ACT057,Rest Room - 2,4,65
+803,ACT022,Jack Rabbit (Clementon Park),5,533
+804,ACT018,Racing Coaster,2,853
+805,ACT049,Restaurant - 1,1,536
+806,ACT029,The Bobs (roller coaster),5,609
+807,ACT022,Jack Rabbit (Clementon Park),2,429
+808,ACT049,Restaurant - 1,3,637
+809,ACT006,Cannon Coaster,2,602
+810,ACT046,Lightning (Revere Beach),2,724
+811,ACT043,Coney Island Cyclone,2,989
+812,ACT053,Restaurant - 5,1,208
+813,ACT016,The Great Scenic Railway,5,422
+814,ACT011,Loop the Loop (Olentangy Park),4,240
+815,ACT013,Backety-Back Scenic Railway,5,861
+816,ACT004,Loop the Loop (Coney Island),1,399
+817,ACT029,The Bobs (roller coaster),3,855
+818,ACT049,Restaurant - 1,4,606
+819,ACT011,Loop the Loop (Olentangy Park),4,625
+820,ACT054,Pool Attire shop,3,809
+821,ACT021,The Wild One (roller coaster),4,836
+822,ACT049,Restaurant - 1,2,938
+823,ACT026,Roller Coaster (Lagoon),5,399
+824,ACT034,Big Dipper (Geauga Lake),2,367
+825,ACT004,Loop the Loop (Coney Island),1,701
+826,ACT008,Figure Eight (Euclid Beach Park),1,220
+827,ACT052,Restaurant - 4,5,409
+828,ACT052,Restaurant - 4,5,880
+829,ACT051,Restaurant - 3,3,479
+830,ACT015,Derby Racer,1,690
+831,ACT045,Cyclone (Palisades Amusement Park),4,148
+832,ACT025,Scenic Railway (roller coaster),1,786
+833,ACT035,Cyclone (Revere Beach),5,962
+834,ACT051,Restaurant - 3,2,184
+835,ACT032,The Thriller (roller coaster),3,569
+836,ACT054,Pool Attire shop,4,606
+837,ACT038,Thunderbolt (1925 roller coaster),1,792
+838,ACT013,Backety-Back Scenic Railway,1,452
+839,ACT016,The Great Scenic Railway,2,821
+840,ACT017,Zippin Pippin,5,402
+841,ACT032,The Thriller (roller coaster),5,963
+842,ACT011,Loop the Loop (Olentangy Park),3,728
+843,ACT034,Big Dipper (Geauga Lake),1,758
+844,ACT030,Giant Dipper,1,330
+845,ACT017,Zippin Pippin,4,532
+846,ACT005,Loop the Loop (Young's Pier),4,894
+847,ACT030,Giant Dipper,3,761
+848,ACT021,The Wild One (roller coaster),4,230
+849,ACT038,Thunderbolt (1925 roller coaster),4,787
+850,ACT023,Jack Rabbit (Kennywood),3,487
+851,ACT037,Jazz Railway,2,990
+852,ACT002,Flip Flap Railway,3,703
+853,ACT013,Backety-Back Scenic Railway,4,754
+854,ACT033,Thunderhawk (Dorney Park),4,15
+855,ACT037,Jazz Railway,2,555
+856,ACT044,Crystal Beach Cyclone,2,956
+857,ACT058,Rest Room - 3,3,752
+858,ACT023,Jack Rabbit (Kennywood),2,392
+859,ACT046,Lightning (Revere Beach),4,801
+860,ACT027,Big Dipper (Blackpool Pleasure Beach),3,949
+861,ACT032,The Thriller (roller coaster),4,613
+862,ACT012,Aero Dips,5,778
+863,ACT045,Cyclone (Palisades Amusement Park),2,662
+864,ACT032,The Thriller (roller coaster),5,766
+865,ACT007,Leap-The-Dips,5,547
+866,ACT058,Rest Room - 3,1,864
+867,ACT040,Crystal Beach Cyclone,5,181
+868,ACT010,Scenic Railway (Euclid Beach Park),5,79
+869,ACT026,Roller Coaster (Lagoon),5,658
+870,ACT051,Restaurant - 3,5,228
+871,ACT023,Jack Rabbit (Kennywood),5,773
+872,ACT054,Pool Attire shop,4,494
+873,ACT024,Jack Rabbit (Seabreeze),4,253
+874,ACT007,Leap-The-Dips,4,784
+875,ACT013,Backety-Back Scenic Railway,1,689
+876,ACT013,Backety-Back Scenic Railway,4,899
+877,ACT040,Crystal Beach Cyclone,4,947
+878,ACT056,Rest Room - 1,2,539
+879,ACT059,Attire Stall,3,234
+880,ACT029,The Bobs (roller coaster),2,692
+881,ACT008,Figure Eight (Euclid Beach Park),3,666
+882,ACT059,Attire Stall,5,792
+883,ACT049,Restaurant - 1,3,202
+884,ACT022,Jack Rabbit (Clementon Park),5,822
+885,ACT029,The Bobs (roller coaster),5,924
+886,ACT040,Crystal Beach Cyclone,5,643
+887,ACT055,Souveneir Stall,4,856
+888,ACT014,Racer (1910 roller coaster),4,595
+889,ACT016,The Great Scenic Railway,2,468
+890,ACT057,Rest Room - 2,4,776
+891,ACT003,Switchback Railway (Euclid Beach Park),4,641
+892,ACT050,Restaurant - 2,1,149
+893,ACT015,Derby Racer,2,296
+894,ACT033,Thunderhawk (Dorney Park),5,336
+895,ACT003,Switchback Railway (Euclid Beach Park),3,604
+896,ACT053,Restaurant - 5,4,642
+897,ACT058,Rest Room - 3,3,684
+898,ACT056,Rest Room - 1,1,786
+899,ACT046,Lightning (Revere Beach),3,406
+900,ACT018,Racing Coaster,1,44
+901,ACT007,Leap-The-Dips,2,664
+902,ACT050,Restaurant - 2,5,327
+903,ACT033,Thunderhawk (Dorney Park),2,664
+904,ACT053,Restaurant - 5,5,239
+905,ACT047,Racer (Kennywood),1,655
+906,ACT057,Rest Room - 2,1,48
+907,ACT046,Lightning (Revere Beach),3,574
+908,ACT034,Big Dipper (Geauga Lake),1,751
+909,ACT049,Restaurant - 1,5,360
+910,ACT016,The Great Scenic Railway,5,623
+911,ACT018,Racing Coaster,3,37
+912,ACT029,The Bobs (roller coaster),3,355
+913,ACT040,Crystal Beach Cyclone,4,204
+914,ACT012,Aero Dips,2,627
+915,ACT012,Aero Dips,4,521
+916,ACT033,Thunderhawk (Dorney Park),5,156
+917,ACT056,Rest Room - 1,4,266
+918,ACT057,Rest Room - 2,2,231
+919,ACT050,Restaurant - 2,5,715
+920,ACT045,Cyclone (Palisades Amusement Park),1,955
+921,ACT017,Zippin Pippin,1,962
+922,ACT059,Attire Stall,4,531
+923,ACT018,Racing Coaster,3,254
+924,ACT004,Loop the Loop (Coney Island),1,607
+925,ACT047,Racer (Kennywood),5,619
+926,ACT026,Roller Coaster (Lagoon),3,1000
+927,ACT007,Leap-The-Dips,3,359
+928,ACT030,Giant Dipper,2,734
+929,ACT020,Green Dragon (Lake Compounce),3,111
+930,ACT027,Big Dipper (Blackpool Pleasure Beach),4,757
+931,ACT052,Restaurant - 4,3,418
+932,ACT009,Drop the Dip,2,825
+933,ACT011,Loop the Loop (Olentangy Park),4,308
+934,ACT021,The Wild One (roller coaster),3,779
+935,ACT019,Whirl Pool Dips,1,7
+936,ACT015,Derby Racer,2,119
+937,ACT018,Racing Coaster,3,944
+938,ACT058,Rest Room - 3,2,706
+939,ACT015,Derby Racer,4,829
+940,ACT052,Restaurant - 4,1,361
+941,ACT009,Drop the Dip,2,39
+942,ACT058,Rest Room - 3,5,327
+943,ACT018,Racing Coaster,4,34
+944,ACT051,Restaurant - 3,1,962
+945,ACT001,Switchback Railway,2,369
+946,ACT052,Restaurant - 4,3,348
+947,ACT001,Switchback Railway,1,71
+948,ACT025,Scenic Railway (roller coaster),5,707
+949,ACT010,Scenic Railway (Euclid Beach Park),2,660
+950,ACT049,Restaurant - 1,3,198
+951,ACT036,Giant Dipper (Belmont Park),2,913
+952,ACT013,Backety-Back Scenic Railway,1,521
+953,ACT018,Racing Coaster,2,48
+954,ACT022,Jack Rabbit (Clementon Park),1,250
+955,ACT052,Restaurant - 4,5,391
+956,ACT035,Cyclone (Revere Beach),5,556
+957,ACT041,Sesquicentennial Cyclone,2,77
+958,ACT048,Wildcat (Lake Compounce),2,938
+959,ACT015,Derby Racer,4,302
+960,ACT050,Restaurant - 2,4,512
+961,ACT059,Attire Stall,5,249
+962,ACT058,Rest Room - 3,3,109
+963,ACT021,The Wild One (roller coaster),3,832
+964,ACT019,Whirl Pool Dips,2,93
+965,ACT055,Souveneir Stall,3,302
+966,ACT046,Lightning (Revere Beach),2,534
+967,ACT031,Pippin (roller coaster),2,537
+968,ACT041,Sesquicentennial Cyclone,2,307
+969,ACT015,Derby Racer,1,824
+970,ACT048,Wildcat (Lake Compounce),1,685
+971,ACT045,Cyclone (Palisades Amusement Park),3,697
+972,ACT023,Jack Rabbit (Kennywood),3,628
+973,ACT005,Loop the Loop (Young's Pier),1,718
+974,ACT030,Giant Dipper,2,940
+975,ACT051,Restaurant - 3,4,82
+976,ACT010,Scenic Railway (Euclid Beach Park),1,129
+977,ACT024,Jack Rabbit (Seabreeze),3,916
+978,ACT033,Thunderhawk (Dorney Park),3,401
+979,ACT052,Restaurant - 4,3,767
+980,ACT035,Cyclone (Revere Beach),2,38
+981,ACT031,Pippin (roller coaster),2,902
+982,ACT014,Racer (1910 roller coaster),3,629
+983,ACT037,Jazz Railway,3,932
+984,ACT031,Pippin (roller coaster),4,720
+985,ACT008,Figure Eight (Euclid Beach Park),5,896
+986,ACT024,Jack Rabbit (Seabreeze),1,760
+987,ACT034,Big Dipper (Geauga Lake),5,752
+988,ACT008,Figure Eight (Euclid Beach Park),2,101
+989,ACT035,Cyclone (Revere Beach),2,83
+990,ACT014,Racer (1910 roller coaster),2,136
+991,ACT048,Wildcat (Lake Compounce),2,789
+992,ACT046,Lightning (Revere Beach),4,771
+993,ACT053,Restaurant - 5,3,587
+994,ACT003,Switchback Railway (Euclid Beach Park),4,99
+995,ACT041,Sesquicentennial Cyclone,1,65
+996,ACT015,Derby Racer,3,829
+997,ACT003,Switchback Railway (Euclid Beach Park),2,722
+998,ACT028,Wild Cat (Hersheypark),1,486
+999,ACT024,Jack Rabbit (Seabreeze),4,738
+1000,ACT059,Attire Stall,5,264
